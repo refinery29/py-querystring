@@ -38,7 +38,6 @@ https://nodejs.org/api/querystring.html
 """
 
 import math
-import re
 import urllib
 
 

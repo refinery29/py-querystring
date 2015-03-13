@@ -30,11 +30,11 @@ decode URI strings.
 
 The code was adapted from:
 
-https:#github.com/joyent/node/blob/master/lib/querystring.js
+https://github.com/joyent/node/blob/master/lib/querystring.js
 
 Documentation has also been adapted from:
 
-https:#nodejs.org/api/querystring.html
+https://nodejs.org/api/querystring.html
 """
 
 import math

@@ -45,6 +45,14 @@ Usage
 'foo=bar&w=%D6%D0%CE%C4'
 
 
+Motivation
+==========
+
+We were looking for a simple module to parse query parameters in a sensible way,
+and were unsatisfied by how ``urlparse`` handled params (putting all values in a list),
+so we made this.
+
+
 License
 =======
 
